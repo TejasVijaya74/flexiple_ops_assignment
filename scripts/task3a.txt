@@ -1,0 +1,21 @@
+Subject: Interview Confirmation – Walk-in Drive on 30 July 2026
+
+Dear Candidate,
+
+This is a confirmation of your interview for our walk-in hiring drive on Thursday, 30 July 2026, at {SLOT_TIME}.
+
+Venue: {OFFICE_ADDRESS}
+
+Please arrive at least 15 minutes early and carry:
+
+A valid government-issued photo ID
+Two printed copies of your resume
+
+Your interview will be conducted by {INTERVIEWER_NAME}.
+
+If you are unable to attend or face any issues reaching the venue, please contact us immediately at {POC_PHONE}.
+
+We look forward to meeting you and wish you all the best for your interview.
+
+Regards,
+Operations Team
