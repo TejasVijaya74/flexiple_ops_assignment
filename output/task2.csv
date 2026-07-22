@@ -1,0 +1,15 @@
+candidate_id,interviewer,start_time,end_time,notes
+S01,Priya,10:00,10:30,
+S02,Priya,10:30,11:00,
+S03,Priya,15:00,15:30,
+S04,Priya,11:00,11:30,
+S05,Priya,11:30,12:00,
+S06,Priya,12:00,12:30,
+S07,Priya,15:30,16:00,
+S08,Rahul,14:00,14:30,
+S09,Rahul,14:30,15:00,
+S10,Rahul,15:00,15:30,
+S11,Rahul,15:30,16:00,
+S12,Rahul,16:00,16:30,
+S13,NONE,,,No compatible interview slot available.
+S14,NONE,,,No compatible interview slot available.
